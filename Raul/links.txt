@@ -1,0 +1,6 @@
+
+AnAL Library: https://love2d.org/wiki/AnAL
+
+Love Wiki: https://love2d.org/wiki/
+
+Tile based scrolling tutorial: https://love2d.org/wiki/Tutorial:Tile-based_Scrolling
